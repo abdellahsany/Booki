@@ -1,2 +1,2 @@
 # Booki
-Maquette transformée en site web avec HTML & CSS
+Maquette transformée en site Web avec HTML & CSS
