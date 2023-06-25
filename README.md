@@ -2,12 +2,14 @@ PROJET 2 OPENCLASSROOMS - Booki
 Contexte
 Deuxième projet du parcours "Développeur web" chez OpenClassrooms. L'entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
-Objectif
+#Objectif
+
 Intégrer l'interface du site avec du code HTML et CSS
 Site Web
 https://claractnn.github.io/P2-OpenClassrooms-Booki/
 
-Habitables
+#Habitables
+
 Un fichier "index.html" contenant l'ensemble du code HTML du projet.
 Un dossier "CSS" comprenant un fichier "style.css" contenant l'ensemble du code CSS du projet.
 Un dossier "images" contenant l'ensemble des images utilisées.
