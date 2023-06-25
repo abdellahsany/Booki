@@ -1,5 +1,8 @@
 PROJET 2 OPENCLASSROOMS - Booki
-Contexte
+Contexte 
+_____________________________________________________________________________ 
+
+dsfdfsdf
 Deuxième projet du parcours "Développeur web" chez OpenClassrooms. L'entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
 #Objectif
