@@ -1,6 +1,4 @@
-# BOOKI
-# PROJET 2
-# OPENCLASSROOMS 
+# PROJET 2 BOOKI - OPENCLASSROOMS 
 ## Contexte
 Deuxième projet du parcours "Développeur web" chez OpenClassrooms. 
 L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
