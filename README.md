@@ -1,4 +1,4 @@
-# PROJET 2 OPENCLASSROOMS BOOKI
+# PROJET 2 BOOKI - OPENCLASSROOMS 
 
 ## Contexte
 Deuxième projet du parcours "Développeur web" chez OpenClassrooms. 
