@@ -17,6 +17,9 @@ Chaque carte d'hébergement ou d'activité doit être cliquable dans son intégr
 Les filtres doivent changer d'apparence au survol. Je te laisse décider de l'effet approprié, je n'ai pas encore eu le temps de me préférer dessus. Par contre, ils ne doivent pas être fonctionnels.
 Les textes "Hébergements" et "Activités", situés dans l'en-tête, sont des liens. Ils doivent mener respectivement vers la rubrique « Hébergements à Marseille » et « Activités à Marseille ».
 Spécifications techniques
+
+#Spécifications techniques
+
 Deux maquettes ont été réalisées : l'un desktop et l'autre mobile. Le site devra également être adapté aux formats tablette. Pour les tablettes, nous sommes libres de faire les adaptations nécessaires. Il est important qu'aucun élément ne soit coupé, et que le texte ait une taille suffisante.
 Concernant les points d'arrêt, nous avons convenu avec le designer UI d'utiliser 992 px et 768 px. 992 px pour les écrans d'ordinateurs et 768 px pour les tablettes, et tout ce qui est en dessous de 768 pour les téléphones portables.
 Il faut d'abord réaliser l'intégration pour les ordinateurs (autrement dit, en desktop first), puis les tablettes et enfin les téléphones. L'utilisation des Media Queries nous permettra de réaliser l'intégration pour les différents supports.
