@@ -30,7 +30,7 @@ pouvons passer par un CDN pour faciliter le chargement des icônes.
 claire de ce bleu (#DEEBFF) et le gris pour le fond (#F2F2F2).
 - La police du site est Raleway. Nous pouvons passer par Google Font
 pour importer facilement cette police dans le code :
-https://fonts.google.com/specimen/Raleway.
+URL : https://fonts.google.com/specimen/Raleway.
 - Il est important d’utiliser les pixels et les pourcentages plutôt que les
 REM et les EM.
 - Il est important d’utiliser Flexbox plutôt que Grid car c’est la techno
@@ -43,7 +43,6 @@ préprocesseur CSS (type Sass ou Less) ne doit être utilisé.
 - La maquette doit être compatible avec les dernières versions de
 Google Chrome et de Mozilla Firefox. Il faudra tester le prototype sur
 ces deux navigateurs.
-- Il n’est pas nécessaire de versionner le code.
 
 # Visitez le site terminé
 URL : https://abdellahsany.github.io/FishEye/
