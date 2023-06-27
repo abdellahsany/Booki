@@ -6,7 +6,7 @@ L’entreprise souhaite développer un site Internet qui permette aux usagers de
 ## Objectif 
 - Intégrer l'interface du site avec du code HTML et CSS
 
-## Site web
+## Visitez le site
 https://claractnn.github.io/P2-OpenClassrooms-Booki/
 
 ## Livrables 
