@@ -1,4 +1,5 @@
 # Booki 
+https://user-images.githubusercontent.com/122992852/223422547-1ca45336-ae26-4fdd-a992-e8d247546ddf.png
 ## Contexte
 Deuxième projet du parcours "Développeur d'application - JavaScript React" chez OpenClassrooms. 
 L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
