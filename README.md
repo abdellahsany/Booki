@@ -28,9 +28,6 @@ chargement.
 pouvons passer par un CDN pour faciliter le chargement des icônes.
 - Les couleurs de la charte sont le bleu (#0065FC), une version plus
 claire de ce bleu (#DEEBFF) et le gris pour le fond (#F2F2F2).
-- La police du site est Raleway. Nous pouvons passer par Google Font
-pour importer facilement cette police dans le code :
-URL : https://fonts.google.com/specimen/Raleway.
 - Il est important d’utiliser les pixels et les pourcentages plutôt que les
 REM et les EM.
 - Il est important d’utiliser Flexbox plutôt que Grid car c’est la techno
