@@ -1,4 +1,4 @@
-<img width=349" height="156" alt="booki_small" src="https://github.com/abdellahsany/Booki/assets/106497263/9c9c1dd1-e8c3-44ea-bf96-f35693bb44a9">
+<img width="349" height="156" alt="booki_small" src="https://github.com/abdellahsany/Booki/assets/106497263/9c9c1dd1-e8c3-44ea-bf96-f35693bb44a9">
 
 
 Deuxième projet du parcours "Développeur d'application - JavaScript React" chez OpenClassrooms. 
