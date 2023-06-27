@@ -7,7 +7,7 @@ L’entreprise souhaite développer un site Internet qui permette aux usagers de
 - Intégrer l'interface du site avec du code HTML et CSS
 
 ## Visitez le site
-[[https://claractnn.github.io/P2-OpenClassrooms-Booki/](https://abdellahsany.github.io/Booki/)](https://abdellahsany.github.io/Booki/)
+https://abdellahsany.github.io/Booki
 
 ## Livrables 
 - Un fichier “index.html” contenant l’ensemble du code HTML du projet.
