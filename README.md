@@ -14,7 +14,7 @@ L’entreprise souhaite développer un site Internet qui permette aux usagers de
 - Les filtres doivent changer d’apparence au survol. Je te laisse décider de l’effet approprié, je n’ai pas encore eu le temps de me pencher dessus. Par contre, ils ne doivent pas être fonctionnels.
 - Les textes “Hébergements” et “Activités”, situés dans l’en-tête, sont des liens. Ils doivent mener respectivement vers la section “Hébergements à Marseille” et “Activités à Marseille”.
 
-## Spécifications techniques
+# Spécifications techniques
 - Deux maquettes ont été réalisées : l’une desktop et l’autre mobile. Le site devra être également adapté aux formats tablette. Pour les tablettes, nous sommes libres de faire les adaptations nécessaires. Il est important qu’aucun élément ne soit coupé, et que le texte ait une taille suffisante.
 - Concernant les breakpoints, nous avons convenu avec le designer UI d’utiliser 992 px et 768 px.
 992 px pour les écrans d’ordinateurs et 768 px pour les tablettes, et tout ce qui est en dessous de 768 pour les téléphones portables.
@@ -44,3 +44,6 @@ préprocesseur CSS (type Sass ou Less) ne doit être utilisé.
 Google Chrome et de Mozilla Firefox. Il faudra tester le prototype sur
 ces deux navigateurs.
 - Il n’est pas nécessaire de versionner le code.
+
+# Visitez le site terminé
+URL : https://abdellahsany.github.io/FishEye/
