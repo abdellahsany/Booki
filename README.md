@@ -1,4 +1,4 @@
-<img width="95" alt="Booki@3x" src="https://github.com/abdellahsany/Booki/assets/106497263/859751ac-c757-4dbe-9d34-67fe9a11d4a5">
+<img width="96" alt="booki_small" src="https://github.com/abdellahsany/Booki/assets/106497263/9c9c1dd1-e8c3-44ea-bf96-f35693bb44a9">
 
 
 Deuxième projet du parcours "Développeur d'application - JavaScript React" chez OpenClassrooms. 
