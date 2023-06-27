@@ -1,5 +1,7 @@
 # ![Booki@3x](https://github.com/abdellahsany/Booki/assets/106497263/17ac70b0-7db5-4d84-a64d-3537734c422e)
 
+![223422547-1ca45336-ae26-4fdd-a992-e8d247546ddf](https://github.com/abdellahsany/Booki/assets/106497263/f41d05f2-f274-494e-96ac-66c37a604488)
+
 Deuxième projet du parcours "Développeur d'application - JavaScript React" chez OpenClassrooms. 
 L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
