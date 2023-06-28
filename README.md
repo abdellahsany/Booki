@@ -2,11 +2,10 @@
 
 ![223422547-1ca45336-ae26-4fdd-a992-e8d247546ddf](https://github.com/abdellahsany/Booki/assets/106497263/f41d05f2-f274-494e-96ac-66c37a604488)
 
-Deuxième projet du parcours "Développeur d'application - JavaScript React" chez OpenClassrooms. 
-L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
+Deuxième projet du parcours "Développeur d'application - JavaScript React" chez OpenClassrooms.
 
 ## Objectif 
-- Intégrer l'interface du site avec du code HTML et CSS
+Intégrer l'interface du site avec du code HTML et CSS. L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
 ## Fonctionnalités
 - Les usagers pourront rechercher des hébergements dans la ville de leur choix. Le champ de recherche est un champ de saisie, le texte doit donc pouvoir être édité par l’utilisateur. Il faut englober ce champ dans un formulaire pour que ce dernier soit valide auprès du W3C. La partie recherche ne doit pas être fonctionnelle.
