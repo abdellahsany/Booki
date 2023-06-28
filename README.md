@@ -30,5 +30,3 @@ préprocesseur CSS (type Sass ou Less) ne doit être utilisé. Il est important 
 
 ## Visitez le projet terminé
 https://abdellahsany.github.io/Booki/
-
-[OpenClassrooms](https://openclassrooms.com/fr/)https://openclassrooms.com/fr/
