@@ -1,4 +1,4 @@
-<img width="206" alt="booki_small" src="https://github.com/abdellahsany/Booki/assets/106497263/76393665-8d58-4484-a171-fa1a09eb1111">
+<img width="190" alt="booki_small" src="https://github.com/abdellahsany/Booki/assets/106497263/76393665-8d58-4484-a171-fa1a09eb1111">
 
 ![223422547-1ca45336-ae26-4fdd-a992-e8d247546ddf](https://github.com/abdellahsany/Booki/assets/106497263/f41d05f2-f274-494e-96ac-66c37a604488)
 
