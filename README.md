@@ -1,6 +1,9 @@
 ![223422547-1ca45336-ae26-4fdd-a992-e8d247546ddf](https://github.com/abdellahsany/Booki/assets/106497263/f41d05f2-f274-494e-96ac-66c37a604488)
 
-`P2` `Booki` `OpenClassrooms` `HTML` `CSS` `Développeur d'application - JavaScript React` 
+`P2` `Booki` `OpenClassrooms` `Développeur d'application - JavaScript React` 
+
+[![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
+[![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
 
 ## Mission 
 
