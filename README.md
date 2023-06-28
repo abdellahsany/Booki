@@ -1,8 +1,7 @@
 <img width="206" alt="booki_small" src="https://github.com/abdellahsany/Booki/assets/106497263/76393665-8d58-4484-a171-fa1a09eb1111">
 
 ![223422547-1ca45336-ae26-4fdd-a992-e8d247546ddf](https://github.com/abdellahsany/Booki/assets/106497263/f41d05f2-f274-494e-96ac-66c37a604488)
-## P2
-Deuxième projet du parcours "Développeur d'application - JavaScript React" chez OpenClassrooms.
+## Deuxième projet du parcours "Développeur d'application - JavaScript React" chez OpenClassrooms.
 
 ## Objectif 
 Intégrer l'interface du site avec du code HTML et CSS. L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
