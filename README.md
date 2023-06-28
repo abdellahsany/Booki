@@ -30,5 +30,5 @@ Intégrer l'interface du site avec du code HTML et CSS. L’entreprise souhaite 
 REM et les EM.Il est important d’utiliser Flexbox plutôt que Grid car c’est la techno que l’équipe maîtrise le mieux. Aucun framework CSS (type BootStrap ou Tailwind CSS) ou
 préprocesseur CSS (type Sass ou Less) ne doit être utilisé. Il est important d’utiliser des balises sémantiques (type `main`,`header`, `nav`, etc.). Le code doit être valide aux validateurs W3C HTML et CSS. La maquette doit être compatible avec les dernières versions de Google Chrome et de Mozilla Firefox. Il faudra tester le prototype sur ces deux navigateurs.
 
-## Visitez le site terminé
+## Visitez le site fait
 https://abdellahsany.github.io/Booki/
