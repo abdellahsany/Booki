@@ -4,7 +4,8 @@
 
 ## Mission 
 
-Transformez une maquette en site web avec HTML & CSS. Deuxième projet du parcours "Développeur d'application - JavaScript React" chez OpenClassrooms.
+Transformez une maquette en site web avec HTML & CSS. 
+Deuxième projet du parcours "Développeur d'application - JavaScript React" chez OpenClassrooms.
 
 ## Objectif 
 Intégrer l'interface du site avec du code HTML et CSS. L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
