@@ -1,5 +1,7 @@
 ![223422547-1ca45336-ae26-4fdd-a992-e8d247546ddf](https://github.com/abdellahsany/Booki/assets/106497263/f41d05f2-f274-494e-96ac-66c37a604488)
 
+`Booki``OpenClassrooms``HTML``CSS`
+
 ## Mission 
 
 Transformez une maquette en site web avec HTML & CSS. 
@@ -30,5 +32,3 @@ préprocesseur CSS (type Sass ou Less) ne doit être utilisé. Il est important 
 
 ## Visitez le projet terminé
 https://abdellahsany.github.io/Booki/
-
-`navd`
