@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/booki.png alt="Page d’accueil Booki" width="100%">
+  <img src="./assets/icônes/booki.png alt="Page d’accueil Booki" width="100%">
 </p>
 
 `P2` `Booki` `OpenClassrooms` `Développeur d'application - JavaScript React` 
