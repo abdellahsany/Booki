@@ -97,10 +97,9 @@ Le projet consiste à transformer une **maquette fournie par l’UI designer** e
 ### 🔍 Points techniques spécifiques
 
 * Couleurs de la charte :
-
-  * Bleu principal `#0065FC`
-  * Bleu clair `#DEEBFF`
-  * Gris fond `#F2F2F2`
+* Bleu principal `#0065FC`
+* Bleu clair `#DEEBFF`
+* Gris fond `#F2F2F2`
 * Texte toujours lisible sur mobile (pas d’éléments coupés)
 * Icônes intégrées via **Font Awesome (CDN)**
 * Unités utilisées : **px et %** (pas de rem/em)
