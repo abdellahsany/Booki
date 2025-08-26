@@ -1,40 +1,94 @@
+## Booki
+
 <p align="center">
   <img src="./assets/icônes/booki.png" alt="Page d’accueil Booki" width="100%">
 </p>
 
+---
 
-`P2` `Booki` `OpenClassrooms` `Développeur d'application - JavaScript React` 
+## 🛠️ Badges
 
-[![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
-[![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenClassrooms-Projet%202-0065FC?style=flat-square&logo=OpenAI&logoColor=white" width="150" height="35" alt="OC Projet 2"/>
+  <a href="https://developer.mozilla.org/fr/docs/Learn/HTML">
+    <img src="https://img.shields.io/badge/HTML-150x35-orange" width="150" height="35" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS-150x35-blue" width="150" height="35" alt="CSS"/>
+  </a>
+</p>
 
-## Mission 
+---
 
-Transformez une maquette en site web avec HTML & CSS. 
+## 📑 Table des matières
 
-## Objectif 
-Intégrer l'interface du site avec du code HTML et CSS. L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
+1. [🎯 Mission](#-mission)
+2. [🎯 Objectif](#-objectif)
+3. [⚙️ Fonctionnalités](#-fonctionnalités)
+4. [🖥️ Procédés techniques](#️-procédés-techniques)
+5. [🚀 Démo en ligne](#-démo-en-ligne)
 
-## Fonctionnalités
-- Les usagers pourront rechercher des hébergements dans la ville de leur choix. Le champ de recherche est un champ de saisie, le texte doit donc pouvoir être édité par l’utilisateur. Il faut englober ce champ dans un formulaire pour que ce dernier soit valide auprès du W3C. La partie recherche ne doit pas être fonctionnelle.
- 
-- Chaque carte d’hébergement ou d’activité devra être cliquable dans son intégralité (pas uniquement le titre). Pour l’instant, les liens sont vides. On peut utiliser un attribut `href=”#”` pour simuler la présence d’un lien.
-  
-- Les filtres doivent changer d’apparence au survol. Je te laisse décider de l’effet approprié, je n’ai pas encore eu le temps de me pencher dessus. Par contre, ils ne doivent pas être fonctionnels.
-  
-- Les textes “Hébergements” et “Activités”, situés dans l’en-tête, sont des liens. Ils doivent mener respectivement vers la section “Hébergements à Marseille” et “Activités à Marseille”.
+---
 
-## Procédés techniques
-- Deux maquettes ont été réalisées : l’une desktop et l’autre mobile. Le site devra être également adapté aux formats tablette. Pour les tablettes, nous sommes libres de faire les adaptations nécessaires. Il est important qu’aucun élément ne soit coupé, et que le texte ait une taille suffisante.
+## 🎯 Mission
 
-- Concernant les breakpoints, nous avons convenu avec le designer UI d’utiliser 992 px et 768 px.
-992 px pour les écrans d’ordinateurs et 768 px pour les tablettes, et tout ce qui est en dessous de 768 pour les téléphones portables.Il faut d’abord réaliser l’intégration pour les ordinateurs (autrement dit, en desktop first), puis les tablettes et enfin les téléphones.
- 
-- L’utilisation des Media Queries nous permettra de réaliser l’intégration pour les différents supports. Plusieurs formats et tailles d’images ont été exportés. Il faudra choisir le format le plus adapté par rapport à la résolution et au temps de chargement. Les icônes proviennent de la bibliothèque Font Awesome. Nous pouvons passer par un CDN pour faciliter le chargement des icônes. Les couleurs de la charte sont le bleu (#0065FC), une version plus claire de ce bleu (#DEEBFF) et le gris pour le fond (#F2F2F2).
+Transformer une **maquette en site web** avec **HTML & CSS**.
 
-- Il est important d’utiliser les pixels et les pourcentages plutôt que les
-REM et les EM.Il est important d’utiliser Flexbox plutôt que Grid car c’est la techno que l’équipe maîtrise le mieux. Aucun framework CSS (type BootStrap ou Tailwind CSS) ou
-préprocesseur CSS (type Sass ou Less) ne doit être utilisé. Il est important d’utiliser des balises sémantiques (type `main`,`header`, `nav`, etc.). Le code doit être valide aux validateurs W3C HTML et CSS. La maquette doit être compatible avec les dernières versions de Google Chrome et de Mozilla Firefox. Il faudra tester le prototype sur ces deux navigateurs.
+---
 
-## Visitez le projet terminé
-https://abdellahsany.github.io/Booki/
+## 🎯 Objectif
+
+Intégrer l'interface du site avec du code **sémantique et responsive**.
+L’entreprise souhaite développer un site Internet qui permette aux usagers de **trouver des hébergements et des activités dans la ville de leur choix**.
+
+---
+
+## ⚙️ Fonctionnalités
+
+* 🔍 Recherche d’hébergements (champ de saisie éditable, englobé dans un formulaire, mais **non fonctionnel**).
+* 🏠 Chaque carte d’hébergement ou d’activité est **cliquable dans son intégralité**.
+* 🎚️ Les filtres changent d’apparence au **survol** (non fonctionnels).
+* 📌 Les liens “Hébergements” et “Activités” redirigent vers les sections correspondantes.
+
+---
+
+## 🖥️ Procédés techniques
+
+### 📱 Responsive Design
+
+* Deux maquettes : **desktop** et **mobile**.
+* Breakpoints :
+
+  * `992px` → Desktop
+  * `768px` → Tablette
+  * `<768px` → Mobile
+* Méthode : **Desktop first**.
+
+### 🎨 Contraintes techniques
+
+* Utilisation de **Flexbox** (pas Grid).
+* Pas de **framework CSS** (Bootstrap, Tailwind…) ni **préprocesseur** (Sass, Less).
+* Balises **sémantiques** (`main`, `header`, `nav`, etc.).
+* Code valide aux **validateurs W3C** HTML et CSS.
+* Compatibilité avec les dernières versions de **Google Chrome** et **Mozilla Firefox**.
+
+### 🌈 Charte graphique
+
+* Couleur principale : `#0065FC` (bleu)
+* Couleur secondaire : `#DEEBFF` (bleu clair)
+* Couleur de fond : `#F2F2F2` (gris)
+
+### 📂 Ressources
+
+* Icônes : **Font Awesome** (via CDN).
+* Images : exportées en **plusieurs tailles** pour optimiser la résolution et le temps de chargement.
+
+---
+
+## 🚀 Démo live
+
+<p align="center">
+  <a href="https://abdellahsany.github.io/Booki/" target="_blank">
+    <img src="https://img.shields.io/badge/Démo%20Live-Booki-0065FC?style=for-the-badge" alt="Démo Booki"/>
+  </a>
+</p>
