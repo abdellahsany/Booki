@@ -23,8 +23,7 @@
 
 ### 🎯 Mission
 
-Développer le site **Booki**, une plateforme permettant aux usagers de **trouver des hébergements et des activités dans la ville de leur choix**.
-Le projet consiste à transformer une **maquette fournie par l’UI designer** en un site web **responsive** et conforme aux standards du **W3C**.
+Développer la page d’accueil du site Booki, une agence de voyage en ligne, à partir de la maquette réalisée par Loïc, l’UI designer. Vous travaillez sous la direction de Sarah, la CTO, qui vous transmet la maquette, une note de synthèse regroupant les spécifications techniques, ainsi qu’une base de code comprenant la structure initiale du projet. L’objectif est d’intégrer l’interface en HTML et CSS de manière fidèle à la maquette, tout en rendant le site entièrement responsive sur desktop, tablette et mobile, et en respectant les standards du W3C.
 
 ---
 
