@@ -104,8 +104,9 @@ Développer la page d’accueil du site **Booki**, une agence de voyage spécial
 * Unités utilisées : **px et %** (pas de rem/em)
 
 ---
-### 🔗 Démo live
+
 <a id="demo-live"></a>
+### 🔗 Démo live
 
 <a href="https://abdellahsany.github.io/Booki/" target="_blank">
   <img src="https://img.shields.io/badge/Démo_live-Cliquez_ici-0065FC?style=plastic&logo=github&logoColor=white&labelFont=DejaVu%20Sans&messageFont=DejaVu%20Sans&labelFontSize=12&messageFontSize=12"
