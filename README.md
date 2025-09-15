@@ -1,4 +1,4 @@
-### Booki
+## Booki
 
 <p align="center">
   <img src="./assets/icônes/booki_welcome.png" alt="Page d’accueil Booki" width="100%">
