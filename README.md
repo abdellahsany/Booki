@@ -105,11 +105,11 @@ Développer la page d’accueil du site **Booki**, une agence de voyage spécial
 
 ---
 
-<a id="demo-live"></a>
+<a id="demo"></a>
 ### 🔗 Démo
 
 <a href="https://abdellahsany.github.io/Booki/" target="_blank">
-  <img src="https://img.shields.io/badge/Démo-Cliquez_ici-0065FC?style=plastic&logo=github&logoColor=white&labelFont=DejaVu%20Sans&messageFont=DejaVu%20Sans&labelFontSize=12&messageFontSize=12"
+  <img src="https://img.shields.io/badge/Booki-Cliquez%20ici-0065FC?style=plastic&logo=github&logoColor=white"
        alt="Démo"
-       style="width:130px; height:18px; border-radius:10px;">
+       style="border-radius:10px;">
 </a>
