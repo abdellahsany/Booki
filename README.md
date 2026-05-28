@@ -15,7 +15,6 @@
 * [Fonctionnalités et bonnes pratiques](#fonctionnalites-pratiques)
 * [Aspects techniques & automatisation](#aspects-techniques-automatisation)
 * [Points techniques spécifiques](#points-techniques-specifiques)
-* [Démo](#demo)
 
 ---
 
@@ -102,14 +101,3 @@ Développer la page d’accueil du site **Booki**, une agence de voyage spécial
 * Texte toujours lisible sur mobile (pas d’éléments coupés)
 * Icônes intégrées via **Font Awesome (CDN)**
 * Unités utilisées : **px et %** (pas de rem/em)
-
----
-
-<a id="demo"></a>
-### 🔗 Démo
-
-<a href="https://abdellahsany.github.io/Booki/" target="_blank">
-  <img src="https://img.shields.io/badge/Booki-Cliquez%20ici-0065FC?style=plastic&logo=github&logoColor=white"
-       alt="Démo"
-       style="border-radius:10px;">
-</a>
